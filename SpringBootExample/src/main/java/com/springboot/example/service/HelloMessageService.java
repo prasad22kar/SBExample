@@ -14,6 +14,6 @@ public class HelloMessageService {
 	}
 
 	public String getMessage(String name) {
-		return "Hello " + name;
+		return "Hello " + name + "! How are you?";
 	}
 }
